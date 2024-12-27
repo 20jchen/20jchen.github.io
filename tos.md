@@ -1,5 +1,2 @@
-layout: page
-title: "Terms of Service"
-permalink: /tos
-
+#20jchen.github.io/tos
 hawk tuah diddy party
