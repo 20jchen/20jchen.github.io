@@ -1,2 +1,4 @@
-# 20jchen.github.io/tos
-hawk tuah diddy party
+layout: page
+title: "tos"
+permalink: /tos
+hawk tuah diddy party oio
